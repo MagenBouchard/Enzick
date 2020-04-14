@@ -1,0 +1,24 @@
+.sdij {
+    font-family: Yanone Kaffeesatz, sans-serif;
+    color: #fff;
+    text-align: center;
+    background-image: url(/images/typesource/japan.jpg);
+    background-size: cover;
+    background-color: #042a34;
+    text-transform: uppercase;
+    padding-top: 7em;
+    padding-bottom: 7.5em;
+  }
+  
+  .sdij-r1 {
+    font-size: 13em;
+    font-weight: 200;
+    line-height: 0.8em;
+  }
+  
+  .sdij-r2 {
+    font-size: 29.5em;
+    line-height: 0.9em;
+    padding-left: 0.05em;
+    font-weight: 200;
+  }
